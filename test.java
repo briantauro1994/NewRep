@@ -8,7 +8,7 @@ public class test
 public void conflict2()
 {
 
-System.out.println("This is Conflict 2");
+System.out.println("This is Never Conflict 2");
 
 }
 
