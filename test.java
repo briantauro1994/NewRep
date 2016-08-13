@@ -4,6 +4,6 @@ public class test
 {
 public static void main(String[] args)
 {
-System.out.println("Welcome to Java feature  1");
+System.out.println("Welcome to Java Merged feature  1");
 }
 }
