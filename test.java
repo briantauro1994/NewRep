@@ -5,6 +5,14 @@ public class test
 {
 
 
+public void conflict4()
+{
+
+
+System.out.println("This is Never Conflict 2");
+
+System.out.println("This is feature 2");
+}
 public void conflict2()
 {
 
@@ -29,5 +37,6 @@ System.out.println("Welcome to Java Conflict  2");
 
 conflict1();
 conflict2();
+conflict4();
 }
 }
