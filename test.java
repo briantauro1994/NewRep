@@ -3,7 +3,12 @@ import java.util.*;
 
 public class test
 {
+public void conflict3()
+{
 
+System.out.println("This is Conflict 3");
+
+}
 
 
 public void conflict1()
