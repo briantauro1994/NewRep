@@ -7,12 +7,12 @@ public class test
 
 public void conflict1()
 {
-System.out.println("Conflict 1");
+System.out.println("This is Conflict 1");
 }
 
 public static void main(String[] args)
 {
-System.out.println("Welcome to Java feature  1");
+System.out.println("Welcome to Java Conflict  1");
 
 
 conflict1();
