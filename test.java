@@ -7,7 +7,7 @@ public class test
 public void conflict3()
 {
 
-System.out.println("I nedd This is Conflict 3");
+System.out.println("Isssssssnedd This is Conflict 3");
 
 }
 
