@@ -15,7 +15,7 @@ System.out.println("This is Conflict 2");
 public static void main(String[] args)
 {
 
-System.out.println("Welcome to Java Conflict  1");
+System.out.println("Welcome to Java Conflict  2");
 
 
 
