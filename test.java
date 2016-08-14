@@ -19,6 +19,12 @@ public void conflict2()
 System.out.println("This is Conflict 2");
 
 }
+public void conflict5()
+{
+
+System.out.println("This is Conflict 2");
+
+}
 public void conflict3()
 {
 
