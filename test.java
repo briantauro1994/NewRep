@@ -18,6 +18,12 @@ public void conflict2()
 System.out.println("This is Conflict 1");
 
 }
+public void conflict4()
+{
+
+System.out.println("This is Conflict 1");
+
+}
 
 public static void main(String[] args)
 {
